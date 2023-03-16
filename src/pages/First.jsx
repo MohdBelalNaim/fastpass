@@ -12,7 +12,7 @@ const First = () => {
                     <div className='fw-bold py-3 accent'>PASSWORD GENERATOR TOOL</div>
                     <div className='fw-bold h1'>Need a Unique, Secure Password ?</div>
                     <div className="py-3 about">
-                        Generate, save, and autofill credentials across all your devices with LastPass.
+                        Generate, save, and autofill credentials across all your devices with FastPass.
                     </div>
     
                     <div>

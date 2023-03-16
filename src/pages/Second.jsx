@@ -30,7 +30,7 @@ const Second = () => {
     generatePass()
   },[])
   return (
-    <div className="container-fluid">
+    <div className="container-fluid mb-5">
       <ToastContainer position='bottom-right'/>
       <div className="row">
         <div className="col-lg-4">&nbsp;</div>

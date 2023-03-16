@@ -5,7 +5,7 @@ import Second from './pages/Second';
 import Navbar from './components/Navbar';
 function App() {
   return (
-    <Router>
+    <Router basename='/fastpass'>
       <Navbar/>
       <Routes>
         <Route path='/' element={<First/>}/>

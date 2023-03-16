@@ -6,7 +6,7 @@ const First = () => {
   return (
     <>
     <section>
-        <div className="container py-5">
+        <div className="container ">
             <div className="row">
                 <div className="col-lg-6 py-5">
                     <div className='fw-bold py-3 accent'>PASSWORD GENERATOR TOOL</div>
